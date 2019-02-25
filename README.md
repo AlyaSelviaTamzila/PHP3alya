@@ -11,3 +11,5 @@
 ![ALT TEXT](https://github.com/AlyaSelviaTamzila/PHP3alya/blob/master/5.jpg)
 # LATIHAN 6
 ![ALT TEXT](https://github.com/AlyaSelviaTamzila/PHP3alya/blob/master/6.jpg)
+# TUGAS
+![ALT TEXT](https://github.com/AlyaSelviaTamzila/PHP3alya/blob/master/tugas.jpg)
